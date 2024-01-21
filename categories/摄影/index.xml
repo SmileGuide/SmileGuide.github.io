@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>摄影 on 金圣皓的个人网站</title>
+    <link>https://smileguide.github.io/categories/%E6%91%84%E5%BD%B1/</link>
+    <description>Recent content in 摄影 on 金圣皓的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 Shenghao Jin</copyright>
+    <lastBuildDate>Sat, 25 Mar 2023 15:42:59 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/categories/%E6%91%84%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于两张照片</title>
+      <link>https://smileguide.github.io/posts/2photos/</link>
+      <pubDate>Sat, 25 Mar 2023 15:42:59 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/posts/2photos/</guid>
+      <description>· 一 ·</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/posts/2photos/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

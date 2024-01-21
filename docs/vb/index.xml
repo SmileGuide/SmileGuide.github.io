@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我早期的Visual Baisc编程作品 on 金圣皓的个人网站</title>
+    <link>https://smileguide.github.io/docs/vb/</link>
+    <description>Recent content in 我早期的Visual Baisc编程作品 on 金圣皓的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 Shenghao Jin</copyright>
+    <lastBuildDate>Sat, 25 Mar 2023 17:35:02 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/docs/vb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>玻璃（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/glass/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/glass/</guid>
+      <description>这是一个可以模拟屏幕上的透明玻璃的工具，同时支持多开、染色、调整大小、按颜色序列创建玻璃等花样功能。</description>
+      
+    </item>
+    
+    <item>
+      <title>绘图板（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/board/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/board/</guid>
+      <description>这是一个可以在空白画布或图片上作画的工具，特别提供教师使用红色笔迹进行评卷的快捷功能。</description>
+      
+    </item>
+    
+    <item>
+      <title>网课小工具-剪贴板存图工具（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/screenshot/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/screenshot/</guid>
+      <description>这是一个可以方便地把按下PrintScreen键复制到剪贴板的截图捕获、并以时间戳文件名保存到指定目录内的工具。</description>
+      
+    </item>
+    
+    <item>
+      <title>网课小工具-课程表（未完结）</title>
+      <link>https://smileguide.github.io/docs/vb/schedule/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/schedule/</guid>
+      <description>这是一个可以在网课期间规划时间、区分星期地按课程设定闹铃的实用工具，另支持内置的命令行操作，并有多种皮肤可选。</description>
+      
+    </item>
+    
+    <item>
+      <title>三十一中学生信息管理系统（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/31infsystem/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/31infsystem/</guid>
+      <description>这是一个可以查询庄河市第三十一初级中学2019届学生信息的数据管理系统，并有模糊查找、剪贴板识别自动查找等功能。你也可以将本作品更改成你单位的信息管理系统。</description>
+      
+    </item>
+    
+    <item>
+      <title>明文密文转换工具（未完结）</title>
+      <link>https://smileguide.github.io/docs/vb/cipher/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/cipher/</guid>
+      <description>这是一个可以根据自定义的密钥加密解密文本的工具，多种花样功能正在开发中。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

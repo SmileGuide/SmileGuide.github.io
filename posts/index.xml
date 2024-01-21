@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日志 on 金圣皓的个人网站</title>
+    <link>https://smileguide.github.io/posts/</link>
+    <description>Recent content in 日志 on 金圣皓的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 Shenghao Jin</copyright>
+    <lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于两张照片</title>
+      <link>https://smileguide.github.io/posts/2photos/</link>
+      <pubDate>Sat, 25 Mar 2023 15:42:59 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/posts/2photos/</guid>
+      <description>· 一 ·</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/posts/2photos/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>关于我曾经的个性签名</title>
+      <link>https://smileguide.github.io/posts/mypreslogan/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smileguide.github.io/posts/mypreslogan/</guid>
+      <description>“保尔思伊 / 疾苦已满楼 / 以一币摁须” # 这是说保尔·柯察金对他的爱人思念之至，愁绪多到能填满一座楼（化无形为有形），而沉浸在极度的悲苦中的人看起来总是平静的，于是他漫无目的地夹起桌上的硬币，贴在人中上（舒爽~）… 😝</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/posts/mypreslogan/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>旧照换新颜</title>
+      <link>https://smileguide.github.io/posts/childhood_photography/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smileguide.github.io/posts/childhood_photography/</guid>
+      <description>照片信息 # 这张照片摄于2011年的大连市滨海公路附近。拍摄时间是UTC+8 5月1日14:15。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/posts/childhood_photography/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello World🎉</title>
+      <link>https://smileguide.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/posts/hello-world/</guid>
+      <description>我的第一个博客。 # 这是我在个人网站上发表的第一篇博客。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/posts/hello-world/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

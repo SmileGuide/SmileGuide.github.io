@@ -65,6 +65,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://smileguide.github.io/posts/memoriesbehindthewall/</loc>
+    <lastmod>2024-01-21T20:13:20+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/posts/mypreslogan/</loc>
+    <lastmod>2023-03-25T23:08:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://smileguide.github.io/docs/vb/</loc>
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -77,14 +89,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://smileguide.github.io/posts/mypreslogan/</loc>
-    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://smileguide.github.io/posts/childhood_photography/</loc>
-    <lastmod>2023-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-22T14:58:34+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

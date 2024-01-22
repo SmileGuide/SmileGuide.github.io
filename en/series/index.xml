@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Ultramarine Meteoroid</title>
+    <title>Series on U&#39;Marine Meteoroid</title>
     <link>https://smileguide.github.io/en/series/</link>
-    <description>Recent content in Series on Ultramarine Meteoroid</description>
+    <description>Recent content in Series on U&#39;Marine Meteoroid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 Shenghao Jin</copyright>
@@ -14,6 +14,16 @@
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/series/poems/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My Original Characters</title>
+      <link>https://smileguide.github.io/en/series/my-original-characters/</link>
+      <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/series/my-original-characters/</guid>
       <description></description>
       
     </item>

@@ -3,6 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://smileguide.github.io/en/radio/classical/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/classical/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/classical/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/docs/myoc/relationship/</loc>
+    <lastmod>2023-06-05T14:36:30+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/radio/newage/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/newage/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/newage/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/docs/myoc/characters/</loc>
+    <lastmod>2023-06-06T09:13:09+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/myoc/characters/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/myoc/characters/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/radio/panpop/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/panpop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/panpop/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/docs/myoc/pedia/</loc>
+    <lastmod>2023-06-06T21:23:49+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/myoc/pedia/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/myoc/pedia/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/radio/rocks/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/rocks/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/rocks/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/docs/myoc/questionaire/</loc>
+    <lastmod>2023-06-06T23:00:25+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/myoc/questionaire/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/myoc/questionaire/"
+    />
+  </url>
+  <url>
     <loc>https://smileguide.github.io/en/posts/gothicstake/</loc>
     <lastmod>2024-01-21T22:50:23+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -56,6 +160,34 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/posts/memoriam/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/radio/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/docs/</loc>
+    <lastmod>2023-06-06T23:00:25+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/"
     />
   </url>
 </urlset>

@@ -13,7 +13,25 @@
     />
     <xhtml:link
       rel="alternate"
+      href="https://smileguide.github.io/ja/radio/classical/"
+    />
+    <xhtml:link
+      rel="alternate"
       href="https://smileguide.github.io/radio/classical/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/docs/myoc/relationship/</loc>
+    <lastmod>2023-06-05T14:36:30+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/myoc/relationship/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/myoc/relationship/"
     />
   </url>
   <url>
@@ -21,6 +39,18 @@
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/glass/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/glass/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/glass/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/radio/newage/</loc>
@@ -30,6 +60,10 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/radio/newage/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/newage/"
     />
     <xhtml:link
       rel="alternate"
@@ -55,6 +89,18 @@
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/board/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/board/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/board/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/radio/panpop/</loc>
@@ -64,6 +110,10 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/radio/panpop/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/panpop/"
     />
     <xhtml:link
       rel="alternate"
@@ -89,6 +139,18 @@
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/screenshot/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/screenshot/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/screenshot/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/radio/rocks/</loc>
@@ -98,6 +160,10 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/radio/rocks/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/rocks/"
     />
     <xhtml:link
       rel="alternate"
@@ -123,18 +189,54 @@
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/schedule/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/schedule/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/schedule/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/docs/vb/31infsystem/</loc>
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/31infsystem/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/31infsystem/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/31infsystem/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/docs/vb/cipher/</loc>
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/cipher/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/cipher/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/cipher/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/posts/gothicstake/</loc>
@@ -165,6 +267,24 @@
     />
   </url>
   <url>
+    <loc>https://smileguide.github.io/docs/vb/</loc>
+    <lastmod>2024-01-02T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/vb/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/vb/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/vb/"
+    />
+  </url>
+  <url>
     <loc>https://smileguide.github.io/contact/</loc>
     <lastmod>2024-01-01T10:11:15+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -181,6 +301,10 @@
     />
     <xhtml:link
       rel="alternate"
+      href="https://smileguide.github.io/ja/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
       href="https://smileguide.github.io/posts/"
     />
   </url>
@@ -192,6 +316,10 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/docs/"
     />
     <xhtml:link
       rel="alternate"
@@ -211,12 +339,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://smileguide.github.io/docs/vb/</loc>
-    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://smileguide.github.io/radio/</loc>
     <lastmod>2024-01-01T10:11:15+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -224,6 +346,10 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/radio/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/"
     />
     <xhtml:link
       rel="alternate"
@@ -235,6 +361,14 @@
     <lastmod>2023-06-06T23:00:25+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/docs/myoc/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/docs/myoc/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/posts/mypreslogan/</loc>
@@ -253,12 +387,36 @@
     <lastmod>2023-02-22T14:58:34+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/posts/childhood_photography/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/posts/childhood_photography/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/posts/childhood_photography/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/posts/hello-world/</loc>
     <lastmod>2023-02-19T09:06:11+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/posts/hello-world/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/posts/hello-world/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/posts/hello-world/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/</loc>
@@ -268,6 +426,10 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/"
     />
     <xhtml:link
       rel="alternate"

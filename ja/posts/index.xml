@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ボログ on 群青流れ星</title>
+    <link>https://smileguide.github.io/ja/posts/</link>
+    <description>Recent content in ボログ on 群青流れ星</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>:copyright: 2024 Shenghao Jin</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHOTO大変身——少年時代の写真の処理</title>
+      <link>https://smileguide.github.io/ja/posts/childhood_photography/</link>
+      <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/posts/childhood_photography/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/posts/childhood_photography/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello World🎉</title>
+      <link>https://smileguide.github.io/ja/posts/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/posts/hello-world/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/posts/hello-world/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -37,8 +37,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d2471d3676ed88d1f4b435b21d85e7cc1cec7bedae3609783abd16249305cb8aa11c47a5af8b4215fb85d6725e22053d65ef66d70df4595ed3c6663a8347928f.css"
-    integrity="sha512-0kcdNnbtiNH0tDWyHYXnzBzse&#43;2uNgl4Or0WJJMFy4qhHEelr4tCFfuF1nJeIgU9Ze9m1w30WV7TxmY6g0eSjw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f4a5213127e5ed2a6e7e559668944ede102f33ac40aec7d563ea0f1a6feada20c42ccb9d597db7f78635cde03d850849626c8e035a69126e6a81301d2fb1789d.css"
+    integrity="sha512-9KUhMSfl7SpuflWWaJRO3hAvM6xArsfVY&#43;oPGm/q2iDELMudWX2394Y1zeA9hQhJYmyOA1ppEm5qgTAdL7F4nQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -552,6 +552,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -569,7 +579,75 @@
       
 
 
+
+
+
+
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/img/background_hu5459c0360c2b0cb7a147d2df0eb350ca_3375073_1200x0_resize_q75_box.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
  <header>
+  
+  <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+    
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/"
+      >Posts</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline ">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/authors/"
+      >Authors</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/authors/%E9%87%91%E5%9C%A3%E7%9A%93/"
+      >金圣皓</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
   
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">金圣皓</h1>
   <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
@@ -624,136 +702,29 @@
 
   
 
-  <section class="space-y-10 w-full">
-    
-    
-    <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-      2024
-    </h2>
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/radio/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/radio/">音乐站</div>
-        
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  <time datetime="2024-01-01 10:11:15 &#43;0800 &#43;0800">2024年1月1日</time>
   
 
   
-  
-</div>
-
-
-
-
-
-
-
-      </div>
-      
-    </div>
-  </a>
+  <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+    2024
+  </h2>
+  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
     
     
 
+  <a href="/docs/vb/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/docs/vb/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/docs/vb/">我早期的Visual Baisc编程作品</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -771,11 +742,7 @@
 
 
 
-  
 
-
-
-  
 
 
 
@@ -792,7 +759,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-01-01 10:11:15 &#43;0800 &#43;0800">2024年1月1日</time><span class="px-2 text-primary-500">&middot;</span><span>209 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
+  <time datetime="2024-01-02 10:11:15 &#43;0800 &#43;0800">2024年1月2日</time>
   
 
   
@@ -803,15 +770,61 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/radio/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/radio/">音乐站</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
@@ -831,20 +844,63 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-01-01 10:11:15 &#43;0800 &#43;0800">2024年1月1日</time>
+  
+
+  
+  
+</div>
 
 
-  <a class="flex flex-wrap article " href="/contact/myweixin/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+    
+    
+
+  <a href="/contact/myweixin/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+
+      <div class="px-6 py-4">
+
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/contact/myweixin/">我的微信号</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -892,48 +948,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/contact/myqq/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/contact/myqq/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/contact/myqq/">我的QQ号</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -981,48 +1038,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/docs/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/docs/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/docs/">文档</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -1068,48 +1126,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/posts/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/posts/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/posts/">日志</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -1155,48 +1214,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/contact/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/contact/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/contact/">联系我</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -1242,48 +1302,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/radio/rocks/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/radio/rocks/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/radio/rocks/">摇滚 Rocks</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -1325,48 +1386,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/radio/panpop/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/radio/panpop/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/radio/panpop/">泛流行 PanPop</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -1408,48 +1470,49 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
     
 
+  <a href="/radio/newage/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
 
+      <div class="px-6 py-4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/radio/newage/">
-    <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/radio/newage/">新世纪音乐 New Age</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -1491,15 +1554,38 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
-    
   </section>
+  
+
+  
 
   
 

@@ -35,8 +35,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d2471d3676ed88d1f4b435b21d85e7cc1cec7bedae3609783abd16249305cb8aa11c47a5af8b4215fb85d6725e22053d65ef66d70df4595ed3c6663a8347928f.css"
-    integrity="sha512-0kcdNnbtiNH0tDWyHYXnzBzse&#43;2uNgl4Or0WJJMFy4qhHEelr4tCFfuF1nJeIgU9Ze9m1w30WV7TxmY6g0eSjw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f4a5213127e5ed2a6e7e559668944ede102f33ac40aec7d563ea0f1a6feada20c42ccb9d597db7f78635cde03d850849626c8e035a69126e6a81301d2fb1789d.css"
+    integrity="sha512-9KUhMSfl7SpuflWWaJRO3hAvM6xArsfVY&#43;oPGm/q2iDELMudWX2394Y1zeA9hQhJYmyOA1ppEm5qgTAdL7F4nQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -287,6 +287,37 @@
             
 
             
+<div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900" title="Hello World🎉">🇨🇳</a>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/posts/hello-world/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Hello World🎉">
+            中文
+          </p>
+        </a>
+        
+        <a href="/en/posts/hello-world/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Hello World🎉">
+            English
+          </p>
+        </a>
+        
+        <a href="/ja/posts/hello-world/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Hello World🎉">
+            日本語
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
             
@@ -339,6 +370,37 @@
             <span></span>
 
             
+<div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    <a href="#" class="text-base font-medium text-gray-500 hover:text-gray-900" title="Hello World🎉">🇨🇳</a>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/posts/hello-world/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Hello World🎉">
+            中文
+          </p>
+        </a>
+        
+        <a href="/en/posts/hello-world/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Hello World🎉">
+            English
+          </p>
+        </a>
+        
+        <a href="/ja/posts/hello-world/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Hello World🎉">
+            日本語
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
             
@@ -530,6 +592,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -627,12 +699,35 @@
 
 
 
+  
+
 
 
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2023-02-19 09:06:11 &#43;0800 &#43;0800">2023年2月19日</time><span class="px-2 text-primary-500">&middot;</span><span>447 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
+  <time datetime="2023-02-19 09:06:11 &#43;0800 &#43;0800">2023年2月19日</time><span class="px-2 text-primary-500">&middot;</span><span>447 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span><span class="px-2 text-primary-500">&middot;</span>
+
+
+<script type="text/javascript" src="/js/zen-mode.min.16f2e42a0014d476212e14c056b26b69bc85cb5de15352a5e3a1a0be498055dc1bf0926cef44baef1cc7fa2dfc5de0052892645cd3766598065f47b15c4bd44d.js" integrity="sha512-FvLkKgAU1HYhLhTAVrJrabyFy13hU1Kl46GgvkmAVdwb8JJs70S67xzH&#43;i38XeAFKJJkXNN2ZZgGX0exXEvUTQ=="></script>
+
+<span class="mb-[2px]">
+    <span id="zen-mode-button"
+          class="text-lg hover:text-primary-500"
+          title="Enable zen mode"
+          data-title-i18n-disable="Enable zen mode"
+          data-title-i18n-enable="Disable zen mode">
+        <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50px" height="50px">
+    <path fill="currentColor" d="M 12.980469 4 C 9.1204688 4 5.9804688 7.14 5.9804688 11 L 6 26 L 9.9804688 26 L 9.9804688 11 C 9.9804688 9.35 11.320469 8 12.980469 8 L 40.019531 8 C 41.679531 8 43.019531 9.35 43.019531 11 L 43.019531 39 C 43.019531 40.65 41.679531 42 40.019531 42 L 29 42 C 29 43.54 28.420938 44.94 27.460938 46 L 40.019531 46 C 43.879531 46 47.019531 42.86 47.019531 39 L 47.019531 11 C 47.019531 7.14 43.879531 4 40.019531 4 L 12.980469 4 z M 7 28 C 4.794 28 3 29.794 3 32 L 3 42 C 3 44.206 4.794 46 7 46 L 23 46 C 25.206 46 27 44.206 27 42 L 27 32 C 27 29.794 25.206 28 23 28 L 7 28 z M 7 32 L 23 32 L 23.001953 42 L 7 42 L 7 32 z"/>
+</svg>
+  </span>
+
+</span>
+    </span>
+</span>
   
 
   
@@ -642,6 +737,32 @@
 
 
 
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/%E5%85%B6%E4%BB%96/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    其他
+  </span>
+</span>
+  </span>
+  
+  
+  
+  
+</div>
 
 
 

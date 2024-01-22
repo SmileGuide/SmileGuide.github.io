@@ -35,8 +35,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d2471d3676ed88d1f4b435b21d85e7cc1cec7bedae3609783abd16249305cb8aa11c47a5af8b4215fb85d6725e22053d65ef66d70df4595ed3c6663a8347928f.css"
-    integrity="sha512-0kcdNnbtiNH0tDWyHYXnzBzse&#43;2uNgl4Or0WJJMFy4qhHEelr4tCFfuF1nJeIgU9Ze9m1w30WV7TxmY6g0eSjw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f4a5213127e5ed2a6e7e559668944ede102f33ac40aec7d563ea0f1a6feada20c42ccb9d597db7f78635cde03d850849626c8e035a69126e6a81301d2fb1789d.css"
+    integrity="sha512-9KUhMSfl7SpuflWWaJRO3hAvM6xArsfVY&#43;oPGm/q2iDELMudWX2394Y1zeA9hQhJYmyOA1ppEm5qgTAdL7F4nQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -306,6 +306,12 @@
           </p>
         </a>
         
+        <a href="/ja/radio/rocks/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Rocks">
+            日本語
+          </p>
+        </a>
+        
       </div>
     </div>
   </div>
@@ -380,6 +386,12 @@
         <a href="/en/radio/rocks/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Rocks">
             English
+          </p>
+        </a>
+        
+        <a href="/ja/radio/rocks/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="Rocks">
+            日本語
           </p>
         </a>
         
@@ -579,6 +591,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -672,6 +694,22 @@
 
 
 
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
 
 
 

@@ -37,8 +37,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d2471d3676ed88d1f4b435b21d85e7cc1cec7bedae3609783abd16249305cb8aa11c47a5af8b4215fb85d6725e22053d65ef66d70df4595ed3c6663a8347928f.css"
-    integrity="sha512-0kcdNnbtiNH0tDWyHYXnzBzse&#43;2uNgl4Or0WJJMFy4qhHEelr4tCFfuF1nJeIgU9Ze9m1w30WV7TxmY6g0eSjw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.f4a5213127e5ed2a6e7e559668944ede102f33ac40aec7d563ea0f1a6feada20c42ccb9d597db7f78635cde03d850849626c8e035a69126e6a81301d2fb1789d.css"
+    integrity="sha512-9KUhMSfl7SpuflWWaJRO3hAvM6xArsfVY&#43;oPGm/q2iDELMudWX2394Y1zeA9hQhJYmyOA1ppEm5qgTAdL7F4nQ==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -502,6 +502,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   </div>
 </div>
@@ -519,7 +529,75 @@
       
 
 
+
+
+
+
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/img/background_hu5459c0360c2b0cb7a147d2df0eb350ca_3375073_1200x0_resize_q75_box.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
  <header>
+  
+  <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+    
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/"
+      >Posts</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline ">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/tags/"
+      >Tags</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline hidden">
+    <a
+      class="hover:underline decoration-neutral-300 dark:underline-neutral-600"
+      href="/tags/ppt/"
+      >PPT</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
   
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">PPT</h1>
   <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
@@ -574,53 +652,33 @@
 
   
 
-  <section class="space-y-10 w-full">
+  
+
+  
+  <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+    2023
+  </h2>
+  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
     
     
-    <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-      2023
-    </h2>
+
+  <a href="/posts/childhood_photography/" class="min-w-full">
     
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <a class="flex flex-wrap article " href="/posts/childhood_photography/">
-    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full md:w-auto h-full thumbnail nozoom thumbnailshadow md:mr-7" style="background-image:url(/posts/childhood_photography/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_8635928_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full thumbnail_card nozoom" style="background-image:url(/posts/childhood_photography/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_8635928_600x0_resize_q75_box.jpg);"></div>
         
-      <div class=" mt-3 md:mt-0">
-      <div class="items-center text-left text-xl font-semibold">
+      
+
+      <div class="px-6 py-4">
+
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/posts/childhood_photography/">旧照换新颜</div>
         
-        
-        
-      </div>
-      <div class="text-sm text-neutral-500 dark:text-neutral-400">
-        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
 
 
 
@@ -670,15 +728,56 @@
 
 
 
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/%E6%91%84%E5%BD%B1/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    摄影
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/ppt/&#34;,'_self');">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    PPT
+  </span>
+</span>
+  </span>
+  
+  
+  
+  
+</div>
 
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
 
       </div>
-      
     </div>
   </a>
     
-    
   </section>
+  
+
+  
 
   
 

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 Shenghao Jin</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/authors/shenghao-jin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/authors/shenghao-jin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://smileguide.github.io/en/radio/classical/</link>
@@ -15,6 +15,16 @@
       
       <guid>https://smileguide.github.io/en/radio/classical/</guid>
       <description> </description>
+      
+    </item>
+    
+    <item>
+      <title>Glass (Completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/glass/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/glass/</guid>
+      <description></description>
       
     </item>
     
@@ -34,6 +44,16 @@
       <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/characters/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Drawing Board (completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/board/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/board/</guid>
       <description></description>
       
     </item>
@@ -59,6 +79,16 @@
     </item>
     
     <item>
+      <title>Online class gadgets - clipboard save picture tool (completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/screenshot/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/screenshot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Rocks</title>
       <link>https://smileguide.github.io/en/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
@@ -69,11 +99,81 @@
     </item>
     
     <item>
+      <title>Online Class Widget - Course Schedule (incomplete)</title>
+      <link>https://smileguide.github.io/en/docs/vb/schedule/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/schedule/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Plaintext-to-Ciphertext Conversion Tool (incomplete)</title>
+      <link>https://smileguide.github.io/en/docs/vb/cipher/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/cipher/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My Previous Visual Baisc Programming Works</title>
+      <link>https://smileguide.github.io/en/docs/vb/</link>
+      <pubDate>Tue, 02 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://smileguide.github.io/en/posts/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/posts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Music Station</title>
       <link>https://smileguide.github.io/en/radio/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>When I whisk away dusts in my childhood...</title>
+      <link>https://smileguide.github.io/en/posts/childhood_photography/</link>
+      <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/posts/childhood_photography/</guid>
+      <description>Info # This photo was taken in Shiboyuan, Shenyang, China in 2011.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/posts/childhood_photography/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello World🎉</title>
+      <link>https://smileguide.github.io/en/posts/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/posts/hello-world/</guid>
+      <description>My first blog.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/posts/hello-world/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>My Original Characters</title>
+      <link>https://smileguide.github.io/en/docs/myoc/</link>
+      <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/myoc/</guid>
       <description></description>
       
     </item>

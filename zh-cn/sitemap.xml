@@ -267,6 +267,10 @@
     />
     <xhtml:link
       rel="alternate"
+      href="https://smileguide.github.io/ja/posts/gothicstake/"
+    />
+    <xhtml:link
+      rel="alternate"
       href="https://smileguide.github.io/posts/gothicstake/"
     />
   </url>

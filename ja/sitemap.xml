@@ -201,8 +201,26 @@
     />
   </url>
   <url>
+    <loc>https://smileguide.github.io/ja/posts/gothicstake/</loc>
+    <lastmod>2024-01-21T22:50:23+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/posts/gothicstake/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/posts/gothicstake/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/posts/gothicstake/"
+    />
+  </url>
+  <url>
     <loc>https://smileguide.github.io/ja/</loc>
-    <lastmod>2024-01-21T20:13:20+08:00</lastmod>
+    <lastmod>2024-01-21T22:50:23+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link

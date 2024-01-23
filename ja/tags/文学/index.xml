@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文学 on 群青流れ星</title>
+    <link>https://smileguide.github.io/ja/tags/%E6%96%87%E5%AD%A6/</link>
+    <description>Recent content in 文学 on 群青流れ星</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>:copyright: 2024 Shenghao Jin</copyright>
+    <lastBuildDate>Sun, 21 Jan 2024 20:13:20 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/ja/tags/%E6%96%87%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>詩『壁の中のメモリアム』</title>
+      <link>https://smileguide.github.io/ja/posts/memoriam/</link>
+      <pubDate>Sun, 21 Jan 2024 20:13:20 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/posts/memoriam/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/posts/memoriam/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

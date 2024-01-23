@@ -299,6 +299,10 @@
     />
     <xhtml:link
       rel="alternate"
+      href="https://smileguide.github.io/ja/posts/memoriam/"
+    />
+    <xhtml:link
+      rel="alternate"
       href="https://smileguide.github.io/en/posts/memoriam/"
     />
   </url>

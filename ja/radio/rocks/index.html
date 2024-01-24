@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="ja" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+
 
 
   
@@ -916,6 +920,26 @@
       <div class="flex justify-between pt-3">
         <span>
           
+            <a class="flex group mr-3" href="/ja/radio/murmurs/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Murmurs of Earth</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                </span>
+              </span>
+            </a>
+          
         </span>
         <span>
           
@@ -950,11 +974,13 @@
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-          <div id="vcomments"></div>
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-
-  <script type="text/javascript">
+        <br/>
+  <span id= "count" class="leancloud_visitors" data-flag-title="ViewsCount">
+    <b class="post-meta-item-text" >&nbsp;&nbsp;クリック数: </b>
+    <b class="leancloud-visitors-count">⏳</b><div></div><br/>
+</span>
+<div id="vcomments"></div>
+<script type="text/javascript">
     new Valine({
         el: '#vcomments' ,
         appId: '7dTAgpdrOBJPvczJHxXZDnak-gzGzoHsz',
@@ -962,10 +988,14 @@
         notify: 'false', 
         verify: 'false', 
         avatar:'mm', 
-        placeholder: '说点什么吧...',
-        visitor: 'true'
+        placeholder: '何かを言う...',
+        lang: 'ja',
     });
+    document.getElementById("count").id = window.location.pathname;
+    var cft = document.getElementsByClassName("vpower")[0];
+    cft.hidden = true;
   </script>
+
       </div>
     </div>
     

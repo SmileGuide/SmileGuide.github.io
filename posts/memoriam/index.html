@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+
 
 
   
@@ -957,7 +961,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        文章 1: 本文
+        § 1: 本文
     </div>
     
     
@@ -965,7 +969,7 @@
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
         <a href="https://smileguide.github.io/posts/gothicstake/">
-            文章 2: 诗《白日之殇》
+            § 2: 诗《白日之殇》
         </a>
     </div>
     
@@ -1008,7 +1012,7 @@
     
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        文章 1: 本文
+        § 1: 本文
     </div>
     
     
@@ -1016,7 +1020,7 @@
     <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
         <a href="https://smileguide.github.io/posts/gothicstake/">
-            文章 2: 诗《白日之殇》
+            § 2: 诗《白日之殇》
         </a>
     </div>
     
@@ -1111,11 +1115,13 @@
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-          <div id="vcomments"></div>
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-
-  <script type="text/javascript">
+        <br/>
+  <span id= "count" class="leancloud_visitors" data-flag-title="ViewsCount">
+    <b class="post-meta-item-text" >&nbsp;&nbsp;页面点击量: </b>
+    <b class="leancloud-visitors-count">⏳</b><div></div><br/>
+</span>
+<div id="vcomments"></div>
+<script type="text/javascript">
     new Valine({
         el: '#vcomments' ,
         appId: '7dTAgpdrOBJPvczJHxXZDnak-gzGzoHsz',
@@ -1123,10 +1129,14 @@
         notify: 'false', 
         verify: 'false', 
         avatar:'mm', 
-        placeholder: '说点什么吧...',
-        visitor: 'true'
+        placeholder: '说点什么...',
+        lang: 'zh-CN',
     });
+    document.getElementById("count").id = window.location.pathname;
+    var cft = document.getElementsByClassName("vpower")[0];
+    cft.hidden = true;
   </script>
+
       </div>
     </div>
     

@@ -39,24 +39,6 @@
     />
   </url>
   <url>
-    <loc>https://smileguide.github.io/ja/radio/murmurs/</loc>
-    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/radio/murmurs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/en/radio/murmurs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/ja/radio/murmurs/"
-    />
-  </url>
-  <url>
     <loc>https://smileguide.github.io/ja/radio/newage/</loc>
     <lastmod>2024-01-01T10:11:15+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -162,6 +144,24 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/ja/docs/vb/schedule/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/ja/radio/murmurs/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/murmurs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/murmurs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/murmurs/"
     />
   </url>
   <url>

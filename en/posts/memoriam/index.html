@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+
+
 
 
   
@@ -1185,11 +1189,13 @@
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-          <div id="vcomments"></div>
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-
-  <script type="text/javascript">
+        <br/>
+  <span id= "count" class="leancloud_visitors" data-flag-title="ViewsCount">
+    <b class="post-meta-item-text" >&nbsp;&nbsp;Page Views: </b>
+    <b class="leancloud-visitors-count">⏳</b><div></div><br/>
+</span>
+<div id="vcomments"></div>
+<script type="text/javascript">
     new Valine({
         el: '#vcomments' ,
         appId: '7dTAgpdrOBJPvczJHxXZDnak-gzGzoHsz',
@@ -1197,10 +1203,14 @@
         notify: 'false', 
         verify: 'false', 
         avatar:'mm', 
-        placeholder: '说点什么吧...',
-        visitor: 'true'
+        placeholder: 'Say anything...',
+        lang: 'en',
     });
+    document.getElementById("count").id = window.location.pathname;
+    var cft = document.getElementsByClassName("vpower")[0];
+    cft.hidden = true;
   </script>
+
       </div>
     </div>
     

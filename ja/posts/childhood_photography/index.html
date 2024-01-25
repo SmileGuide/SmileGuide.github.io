@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-  />
-
 
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1155,13 +1148,56 @@
 <link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet' />
 <div id="vcomments"></div>
   <script>
-  Waline.init({
-    el: '#vcomments',
-   serverURL: 'https://waline-1-q2456745.deta.app/',
-   emoji: ['https://valine-emoji.bili33.top/weibo','https://valine-emoji.bili33.top/dingtalk','https://valine-emoji.bili33.top/bilibiliHotKey','https://valine-emoji.bili33.top/bilibilitv','https://valine-emoji.bili33.top/Tieba-New']
-  });
-  </script>
+    if ("jp"=="zh-CN") {
+                    Waline.init({
+            el: '#vcomments',
+           serverURL: 'https://waline-1-e5403272.deta.app/',
+           emoji: ['https://valine-emoji.bili33.top/bilibilitv','https://valine-emoji.bili33.top/bilibiliHotKey','https://valine-emoji.bili33.top/Tieba-New','https://valine-emoji.bili33.top/weibo',],
+           meta:['nick', 'mail'],
+           reaction: true,
+           lang: "zh-CN",
+           locale: {
+          reactionTitle: '•畅所欲言——这里是开放区•',
+          comment: '留言板',
+          placeholder: '点击下方登录后再评论，不用等待审核哦~',
+          gifSearchPlaceholder: '搜索表情包...',
+          admin: '作者',
+          sofa: '还没有人评论呢，快来抢沙发吧',
+          anonymous: '匿名用户'
+        }
+          });
 
+    } 
+    else {
+                Waline.init({
+            el: '#vcomments',
+           serverURL: 'https://waline-1-e5403272.deta.app/',
+           emoji: ['https://valine-emoji.bili33.top/bilibilitv','https://valine-emoji.bili33.top/bilibiliHotKey','https://valine-emoji.bili33.top/Tieba-New','https://valine-emoji.bili33.top/weibo',],
+           dark: 'html[class="dark"]',
+           reaction: true,
+           lang:"jp",
+          });
+
+    }
+  document.getElementsByClassName('wl-power')[0].style.display = 'none';
+      document.querySelector(".wl-actions a").style.display = 'none'
+  </script>
+  <style type="text/css">
+    :root{
+      --waline-color: var(--tw-prose-quotes);
+      --waline-info-color: var(--tw-prose-quotes);
+      --waline-info-bgcolor: var(--tw-ring-color);
+      --waline-theme-color: rgba(var(--color-primary-400));
+      --waline-bgcolor: trsnsparent;
+      --waline-border-color: #747474;
+    }
+    .wl-editor,.wl-input{
+      max-width:88%;
+    }
+    .wl-reaction-item.active .wl-reaction-votes {
+    color: white;
+    }
+  </style>
       </div>
     </div>
     

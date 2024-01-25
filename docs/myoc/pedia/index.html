@@ -1305,7 +1305,17 @@
     <div class="pt-3">
       <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
       <div class="pt-3">
-        
+        <br/>
+<span style="color:rgba(var(--color-neutral-400),var(--tw-text-opacity));">
+    <span class="post-meta-item-text" >&nbsp;&nbsp;页面点击量: </span>
+    <span class="waline-pageview-count">⏳</span><div></div><br/>
+</span>
+<script type="text/javascript">
+      document.getElementByClassName("aline-pageview-count")[0].data-path = window.location.pathname;
+</script>
+
+
+
 
 
 
@@ -1319,16 +1329,17 @@
            serverURL: 'https://waline-1-e5403272.deta.app/',
            emoji: ['https://valine-emoji.bili33.top/bilibilitv','https://valine-emoji.bili33.top/bilibiliHotKey','https://valine-emoji.bili33.top/Tieba-New','https://valine-emoji.bili33.top/weibo',],
            meta:['nick', 'mail'],
+           pageview: true,
            reaction: true,
            lang: "zh-CN",
            locale: {
           reactionTitle: '•畅所欲言——这里是开放区•',
           comment: '留言板',
-          placeholder: '点击下方登录后再评论，不用等待审核哦~',
+          placeholder: '点击下方登录后再评论，会有惊喜哦~',
           gifSearchPlaceholder: '搜索表情包...',
           admin: '作者',
-          sofa: '还没有人评论呢，快来抢沙发吧',
-          anonymous: '匿名用户'
+          sofa: '还没有人评论，快来抢沙发吧',
+          anonymous: '匿名者'
         }
           });
 
@@ -1338,7 +1349,8 @@
             el: '#vcomments',
            serverURL: 'https://waline-1-e5403272.deta.app/',
            emoji: ['https://valine-emoji.bili33.top/bilibilitv','https://valine-emoji.bili33.top/bilibiliHotKey','https://valine-emoji.bili33.top/Tieba-New','https://valine-emoji.bili33.top/weibo',],
-           dark: 'html[class="dark"]',
+           meta:['nick', 'mail'],
+           pageview: true,
            reaction: true,
            lang:"zh-CN",
           });
@@ -1398,6 +1410,32 @@
     </nav>
     
   
+
+
+  <span class="text-sm text-neutral-500 dark:text-neutral-400">
+  主页来访者总数：
+    <span class="waline-pageview-count" data-path="/" id="pagec"/>
+  </span>
+  <script type="module">
+    import { pageviewCount } from 'https://unpkg.com/@waline/client/dist/pageview.js';
+    pageviewCount({
+      serverURL: 'https://waline-1-e5403272.deta.app/',
+      path: '/',
+    });
+</script>
+<script type="text/javascript">
+    var pagect = document.getElementById('pagec');
+  function lsn() {
+    var itl,itll;
+      var element = document.getElementById("pagec");  
+            pagect.removeEventListener('DOMSubtreeModified', lsn, false);
+      itl  = element.innerText;
+      itll = Number(itl).toLocaleString();
+      document.getElementById('pagec').innerHTML = itll;
+  }
+pagect.addEventListener('DOMSubtreeModified', lsn, false);
+</script>
+
   <div class="flex items-center justify-between">
 
     

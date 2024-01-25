@@ -1153,6 +1153,32 @@
     </nav>
     
   
+
+
+  <span class="text-sm text-neutral-500 dark:text-neutral-400">
+  Homepage Views: 
+    <span class="waline-pageview-count" data-path="/" id="pagec"/>
+  </span>
+  <script type="module">
+    import { pageviewCount } from 'https://unpkg.com/@waline/client/dist/pageview.js';
+    pageviewCount({
+      serverURL: 'https://waline-1-e5403272.deta.app/',
+      path: '/',
+    });
+</script>
+<script type="text/javascript">
+    var pagect = document.getElementById('pagec');
+  function lsn() {
+    var itl,itll;
+      var element = document.getElementById("pagec");  
+            pagect.removeEventListener('DOMSubtreeModified', lsn, false);
+      itl  = element.innerText;
+      itll = Number(itl).toLocaleString();
+      document.getElementById('pagec').innerHTML = itll;
+  }
+pagect.addEventListener('DOMSubtreeModified', lsn, false);
+</script>
+
   <div class="flex items-center justify-between">
 
     

@@ -178,7 +178,85 @@
 <div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
   <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
-    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+    
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+<div id="aplayera" style="opacity:0.8;color: var(--tw-prose-headings);"></div>
+<script type="text/javascript">
+  const ap = new APlayer({
+    container: document.getElementById('aplayera'),
+        fixed: true,
+        lrcType: 3,
+    audio: [{
+        name: '正解(混声三部合唱)',
+        artist: 'RADWIMPS',
+        url: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/EN2sSlJjrTnrwt7422opBQzuYtwgKUxG/RADWIMPS%20-%20%E6%AD%A3%E8%A7%A3%20%28%E6%B7%B7%E5%A3%B0%E4%B8%89%E9%83%A8%E5%90%88%E5%94%B1%29.flac',
+        cover: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/TiTb4RxeNTT3aLMhY54AQsVS1QX93zfv/%E6%AD%A3%E8%A7%A3_cover.jpg',
+        lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/81GxLoRdTXmyBp7NCYPQNAhh6LT22Fku/RADWIMPS%20-%20%E6%AD%A3%E8%A7%A3%20%28%E6%B7%B7%E5%A3%B0%E4%B8%89%E9%83%A8%E5%90%88%E5%94%B1%29.lrc'
+    }]
+});
+
+        ready();
+    
+    isRecover = false;
+    function ready(){
+        ap.on('canplay', function () {
+            if(!isRecover){
+                if(localStorage.getItem("musicIndex") != null){
+                    musicIndex = localStorage.getItem("musicIndex");
+                    musicTime = localStorage.getItem("musicTime");
+                    if(ap.list.index != musicIndex){
+                        ap.list.switch(musicIndex);
+                    }else{
+                        ap.seek(musicTime);
+                        ap.play();
+                        localStorage.clear();
+                        isRecover = true;
+                    }
+                }else{
+                    isRecover = true;
+                }
+            }
+        });
+    }
+
+    window.onbeforeunload = function(event) {
+        if(!ap.audio.paused){
+            musicIndex = ap.list.index;
+            musicTime = ap.audio.currentTime;
+            localStorage.setItem("musicIndex",musicIndex);
+            localStorage.setItem("musicTime",musicTime);
+        }
+    };
+
+
+
+var element = document.getElementsByClassName("aplayer-title")[0];  
+$(element).wrap('<a href="/player"></a>');
+</script>
+
+
+
+
+
+<style type="text/css">
+    .aplayer-title{
+        color:black;
+    }
+</style>
+
+
+
+
+
+
+
+<div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -1191,16 +1269,40 @@
 </script>
 <script type="text/javascript">
     var pagect = document.getElementById('pagec');
-  function lsn() {
-    var itl,itll;
+var observer = new MutationObserver(function(){
+      var itl,itll;
       var element = document.getElementById("pagec");  
-            pagect.removeEventListener('DOMSubtreeModified', lsn, false);
+      observer.disconnect();
       itl  = element.innerText;
       itll = Number(itl).toLocaleString();
       document.getElementById('pagec').innerHTML = itll;
-  }
-pagect.addEventListener('DOMSubtreeModified', lsn, false);
+});
+var article = document.getElementById('pagec');
+
+var options = {
+  'childList': true,
+    'subtree': true
+};
+
+observer.observe(article, options);
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <div class="flex items-center justify-between">
 

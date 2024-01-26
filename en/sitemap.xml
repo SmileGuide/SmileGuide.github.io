@@ -71,6 +71,24 @@
     />
   </url>
   <url>
+    <loc>https://smileguide.github.io/en/radio/player/</loc>
+    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/player/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/player/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/player/"
+    />
+  </url>
+  <url>
     <loc>https://smileguide.github.io/en/docs/myoc/characters/</loc>
     <lastmod>2023-06-06T09:13:09+08:00</lastmod>
     <changefreq>daily</changefreq>

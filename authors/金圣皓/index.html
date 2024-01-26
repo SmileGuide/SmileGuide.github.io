@@ -151,7 +151,85 @@
 <div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
   <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
-    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+    
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+<div id="aplayera" style="opacity:0.8;color: var(--tw-prose-headings);"></div>
+<script type="text/javascript">
+  const ap = new APlayer({
+    container: document.getElementById('aplayera'),
+        fixed: true,
+        lrcType: 3,
+    audio: [{
+        name: '正解(混声三部合唱)',
+        artist: 'RADWIMPS',
+        url: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/EN2sSlJjrTnrwt7422opBQzuYtwgKUxG/RADWIMPS%20-%20%E6%AD%A3%E8%A7%A3%20%28%E6%B7%B7%E5%A3%B0%E4%B8%89%E9%83%A8%E5%90%88%E5%94%B1%29.flac',
+        cover: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/TiTb4RxeNTT3aLMhY54AQsVS1QX93zfv/%E6%AD%A3%E8%A7%A3_cover.jpg',
+        lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/81GxLoRdTXmyBp7NCYPQNAhh6LT22Fku/RADWIMPS%20-%20%E6%AD%A3%E8%A7%A3%20%28%E6%B7%B7%E5%A3%B0%E4%B8%89%E9%83%A8%E5%90%88%E5%94%B1%29.lrc'
+    }]
+});
+
+        ready();
+    
+    isRecover = false;
+    function ready(){
+        ap.on('canplay', function () {
+            if(!isRecover){
+                if(localStorage.getItem("musicIndex") != null){
+                    musicIndex = localStorage.getItem("musicIndex");
+                    musicTime = localStorage.getItem("musicTime");
+                    if(ap.list.index != musicIndex){
+                        ap.list.switch(musicIndex);
+                    }else{
+                        ap.seek(musicTime);
+                        ap.play();
+                        localStorage.clear();
+                        isRecover = true;
+                    }
+                }else{
+                    isRecover = true;
+                }
+            }
+        });
+    }
+
+    window.onbeforeunload = function(event) {
+        if(!ap.audio.paused){
+            musicIndex = ap.list.index;
+            musicTime = ap.audio.currentTime;
+            localStorage.setItem("musicIndex",musicIndex);
+            localStorage.setItem("musicTime",musicTime);
+        }
+    };
+
+
+
+var element = document.getElementsByClassName("aplayer-title")[0];  
+$(element).wrap('<a href="/player"></a>');
+</script>
+
+
+
+
+
+<style type="text/css">
+    .aplayer-title{
+        color:black;
+    }
+</style>
+
+
+
+
+
+
+
+<div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -1347,6 +1425,96 @@
     
     
 
+  <a href="/radio/player/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/radio/player/">关于网站音乐</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <span>306 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+    
+    
+
   <a href="/radio/murmurs/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
@@ -1513,90 +1681,6 @@
     </div>
   </a>
     
-    
-
-  <a href="/radio/panpop/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/radio/panpop/">泛流行 PanPop</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-
-  
-  
-</div>
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div>
-
-
-
-        </div>
-
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-    
   </section>
   
 
@@ -1672,16 +1756,40 @@
 </script>
 <script type="text/javascript">
     var pagect = document.getElementById('pagec');
-  function lsn() {
-    var itl,itll;
+var observer = new MutationObserver(function(){
+      var itl,itll;
       var element = document.getElementById("pagec");  
-            pagect.removeEventListener('DOMSubtreeModified', lsn, false);
+      observer.disconnect();
       itl  = element.innerText;
       itll = Number(itl).toLocaleString();
       document.getElementById('pagec').innerHTML = itll;
-  }
-pagect.addEventListener('DOMSubtreeModified', lsn, false);
+});
+var article = document.getElementById('pagec');
+
+var options = {
+  'childList': true,
+    'subtree': true
+};
+
+observer.observe(article, options);
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   <div class="flex items-center justify-between">
 

@@ -202,7 +202,7 @@
         name: 'カイコ (蚕)',
         artist: 'RADWIMPS',
         url: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/55aa6DD3jc5iS83xN9JHbwoQdLS1EsGI/RADWIMPS%20%28%E3%83%A9%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%97%E3%82%B9%29%20-%20%E3%82%AB%E3%82%A4%E3%82%B3%20%28%E8%9A%95%29.flac',
-        cover: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/MebVkPDmO43fGe2LMuutzbEHjSxgYR6Q/%E3%82%AB%E3%82%A4%E3%82%B3.jpg',
+        cover: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/sAYPwSEiCi6COEP5gi0iz6bHLXlf9Xcn/%E3%82%AB%E3%82%A4%E3%82%B3.jpg',
         lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/YBdhBE5Po2CDiD7mzoLcxpL5JEiAa0iD/RADWIMPS%20%28%E3%83%A9%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%97%E3%82%B9%29%20-%20%E3%82%AB%E3%82%A4%E3%82%B3%20%28%E8%9A%95%29.lrc'
     },
         {
@@ -295,7 +295,7 @@
 
 
 var element = document.getElementsByClassName("aplayer-title")[0];  
-$(element).wrap('<a href="/player"></a>');
+$(element).wrap("<a href='\/ja/player'></a>");
 </script>
 
 
@@ -1370,36 +1370,11 @@ $(element).wrap('<a href="/player"></a>');
   
 
 
-  <span class="text-sm text-neutral-500 dark:text-neutral-400">
-  サイト総訪問者数は
-    <span class="waline-pageview-count" data-path="/" id="pagec">——</span>
-  </span>
-  <script type="module">
-    import { pageviewCount } from 'https://unpkg.com/@waline/client/dist/pageview.js';
-    pageviewCount({
-      serverURL: 'https://waline-1-e5403272.deta.app/',
-      path: '/',
-    });
-</script>
-<script type="text/javascript">
-    var pagect = document.getElementById('pagec');
-var observer = new MutationObserver(function(){
-      var itl,itll;
-      var element = document.getElementById("pagec");  
-      observer.disconnect();
-      itl  = element.innerText;
-      itll = Number(itl).toLocaleString();
-      document.getElementById('pagec').innerHTML = itll;
-});
-var article = document.getElementById('pagec');
+  
 
-var options = {
-  'childList': true,
-    'subtree': true
-};
 
-observer.observe(article, options);
-</script>
+
+
 
 
 

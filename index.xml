@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/radio/classical/</guid>
-      <description> </description>
+      <description> 关于网站音乐系统 2024年1月26日&amp;middot;380 字&amp;middot;1 分钟 </description>
       
     </item>
     
@@ -44,7 +44,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/radio/newage/</guid>
-      <description> </description>
+      <description> 关于网站音乐系统 2024年1月26日&amp;middot;380 字&amp;middot;1 分钟 </description>
       
     </item>
     
@@ -74,7 +74,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/radio/panpop/</guid>
-      <description> </description>
+      <description> 关于网站音乐系统 2024年1月26日&amp;middot;380 字&amp;middot;1 分钟 </description>
       
     </item>
     
@@ -104,7 +104,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/radio/rocks/</guid>
-      <description> </description>
+      <description> 关于网站音乐系统 2024年1月26日&amp;middot;380 字&amp;middot;1 分钟 </description>
       
     </item>
     
@@ -134,7 +134,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/radio/murmurs/</guid>
-      <description> </description>
+      <description> 关于网站音乐系统 2024年1月26日&amp;middot;380 字&amp;middot;1 分钟 </description>
       
     </item>
     
@@ -149,21 +149,31 @@
     </item>
     
     <item>
-      <title>关于网站音乐</title>
-      <link>https://smileguide.github.io/radio/player/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://smileguide.github.io/radio/player/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>明文密文转换工具（未完结）</title>
       <link>https://smileguide.github.io/docs/vb/cipher/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/docs/vb/cipher/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于网站音乐系统</title>
+      <link>https://smileguide.github.io/player/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/player/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/player/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>精选音乐信息（悬浮播放器↙）</title>
+      <link>https://smileguide.github.io/radio/pick/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/pick/</guid>
       <description></description>
       
     </item>

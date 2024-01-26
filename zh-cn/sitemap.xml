@@ -239,24 +239,6 @@
     />
   </url>
   <url>
-    <loc>https://smileguide.github.io/radio/player/</loc>
-    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/en/radio/player/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/ja/radio/player/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/radio/player/"
-    />
-  </url>
-  <url>
     <loc>https://smileguide.github.io/docs/vb/cipher/</loc>
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -272,6 +254,42 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/docs/vb/cipher/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/player/</loc>
+    <lastmod>2024-01-26T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/player/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/player/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/player/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/radio/pick/</loc>
+    <lastmod>2024-01-26T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/pick/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/pick/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/pick/"
     />
   </url>
   <url>

@@ -21,24 +21,6 @@
     />
   </url>
   <url>
-    <loc>https://smileguide.github.io/en/radio/pick/</loc>
-    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/radio/pick/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/ja/radio/pick/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/en/radio/pick/"
-    />
-  </url>
-  <url>
     <loc>https://smileguide.github.io/en/docs/myoc/relationship/</loc>
     <lastmod>2023-06-05T14:36:30+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -293,21 +275,21 @@
     />
   </url>
   <url>
-    <loc>https://smileguide.github.io/en/</loc>
+    <loc>https://smileguide.github.io/en/radio/pick/</loc>
     <lastmod>2024-01-26T10:11:15+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      href="https://smileguide.github.io/"
+      href="https://smileguide.github.io/radio/pick/"
     />
     <xhtml:link
       rel="alternate"
-      href="https://smileguide.github.io/ja/"
+      href="https://smileguide.github.io/ja/radio/pick/"
     />
     <xhtml:link
       rel="alternate"
-      href="https://smileguide.github.io/en/"
+      href="https://smileguide.github.io/en/radio/pick/"
     />
   </url>
   <url>
@@ -466,6 +448,24 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/en/posts/hello-world/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/en/</loc>
+    <lastmod>2022-06-13T20:55:37+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/"
     />
   </url>
 </urlset>

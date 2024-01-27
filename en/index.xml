@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>U&#39;Marine Meteoroid</title>
+    <title>Self-Introduction on U&#39;Marine Meteoroid</title>
     <link>https://smileguide.github.io/en/</link>
-    <description>Recent content on U&#39;Marine Meteoroid</description>
+    <description>Recent content in Self-Introduction on U&#39;Marine Meteoroid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 Shenghao Jin</copyright>
-    <lastBuildDate>Fri, 26 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://smileguide.github.io/en/radio/classical/</link>
@@ -15,17 +15,7 @@
       
       <guid>https://smileguide.github.io/en/radio/classical/</guid>
       <description> </description>
-      
-    </item>
-    
-    <item>
-      <title>Classical</title>
-      <link>https://smileguide.github.io/en/radio/pick/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://smileguide.github.io/en/radio/pick/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/classical/feature.jpg" />
     </item>
     
     <item>
@@ -55,7 +45,7 @@
       
       <guid>https://smileguide.github.io/en/radio/newage/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/newage/feature.jpg" />
     </item>
     
     <item>
@@ -85,7 +75,7 @@
       
       <guid>https://smileguide.github.io/en/radio/panpop/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/panpop/feature.jpg" />
     </item>
     
     <item>
@@ -114,8 +104,8 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/rocks/</guid>
-      <description> About Music on This Site 26 January 2024&amp;middot;247 words&amp;middot;2 mins </description>
-      
+      <description> About Music on This Site 26 January 2024&amp;middot;247 words&amp;middot;2 mins Music </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/rocks/feature.jpg" />
     </item>
     
     <item>
@@ -145,7 +135,7 @@
       
       <guid>https://smileguide.github.io/en/radio/murmurs/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
@@ -176,6 +166,16 @@
       <guid>https://smileguide.github.io/en/player/</guid>
       <description>The music system of this website is divided into two parts: Hover Player and Music Station.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/player/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Music Information (In Player ↙)</title>
+      <link>https://smileguide.github.io/en/radio/pick/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/pick/</guid>
+      <description>1. 正解(混声三部合唱) Seikai – RADWIMPS 2.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/pick/feature.jpg" />
     </item>
     
     <item>

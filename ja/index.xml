@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>自我介绍 on 群青流れ星</title>
+    <title>自己紹介 on 群青流れ星</title>
     <link>https://smileguide.github.io/ja/</link>
-    <description>Recent content in 自我介绍 on 群青流れ星</description>
+    <description>Recent content in 自己紹介 on 群青流れ星</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 Shenghao Jin</copyright>
@@ -15,17 +15,7 @@
       
       <guid>https://smileguide.github.io/ja/radio/classical/</guid>
       <description> </description>
-      
-    </item>
-    
-    <item>
-      <title>Classical</title>
-      <link>https://smileguide.github.io/ja/radio/pick/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://smileguide.github.io/ja/radio/pick/</guid>
-      <description> </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/classical/feature.jpg" />
     </item>
     
     <item>
@@ -45,7 +35,7 @@
       
       <guid>https://smileguide.github.io/ja/radio/newage/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/newage/feature.jpg" />
     </item>
     
     <item>
@@ -65,7 +55,7 @@
       
       <guid>https://smileguide.github.io/ja/radio/panpop/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/panpop/feature.jpg" />
     </item>
     
     <item>
@@ -84,8 +74,8 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/rocks/</guid>
-      <description> サイトの音楽について 2024年1月26日&amp;middot;619 文字&amp;middot;2 分 </description>
-      
+      <description> サイトの音楽について 2024年1月26日&amp;middot;619 文字&amp;middot;2 分 音楽 </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/rocks/feature.jpg" />
     </item>
     
     <item>
@@ -105,7 +95,7 @@
       
       <guid>https://smileguide.github.io/ja/radio/murmurs/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
@@ -136,6 +126,16 @@
       <guid>https://smileguide.github.io/ja/player/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/player/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>プレイヤー↙の中の音楽の構成</title>
+      <link>https://smileguide.github.io/ja/radio/pick/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/pick/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/pick/feature.jpg" />
     </item>
     
     <item>

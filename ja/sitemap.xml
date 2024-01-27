@@ -21,24 +21,6 @@
     />
   </url>
   <url>
-    <loc>https://smileguide.github.io/ja/radio/pick/</loc>
-    <lastmod>2024-01-01T10:11:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/radio/pick/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/en/radio/pick/"
-    />
-    <xhtml:link
-      rel="alternate"
-      href="https://smileguide.github.io/ja/radio/pick/"
-    />
-  </url>
-  <url>
     <loc>https://smileguide.github.io/ja/docs/vb/glass/</loc>
     <lastmod>2023-03-25T17:35:02+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -234,6 +216,24 @@
     <xhtml:link
       rel="alternate"
       href="https://smileguide.github.io/ja/player/"
+    />
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/ja/radio/pick/</loc>
+    <lastmod>2024-01-26T10:11:15+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/radio/pick/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/radio/pick/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/radio/pick/"
     />
   </url>
   <url>

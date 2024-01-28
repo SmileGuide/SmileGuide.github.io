@@ -1231,7 +1231,7 @@ Blowfish 是<a href="https://n9o.xyz/"   target="_blank">
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">ssh-keygen -t rsa - -C <span class="s2">&#34;</span><span class="k">$(</span>git config user.email<span class="k">)</span><span class="s2">&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="c1"># 不能直接回车，输入新路径以免覆盖原来的密钥</span>
 </span></span></code></pre></div><p>到你输入的路径复制公钥(<code>id_rsa.pub</code>)，在公有 Repo 中点击 <code>Setting - Deploy keys - Add deploy key</code>，名称随意，勾选 Allow write access 后保存。</p>
-<p>复制私钥(<code>id_rsa</code>)，到私有 Repo 中点击<code>Setting - Secrets - New Repo secrets</code> ，名称必须设为<code>ACTIONS_DEPLOY_KEY</code>，粘贴私钥。</p>
+<p>复制私钥(<code>id_rsa</code>)，到私有 Repo 中点击<code>Setting - Secrets - New Repo Secrets</code> ，名称必须设为<code>ACTIONS_DEPLOY_KEY</code>，粘贴私钥。</p>
 <p>配置你的网站主页，写写帖子，接着 <code>push</code> 一下本地仓库。</p>
 <p>提交代码之后，GitHub Actions 会根据源码，用 Hugo 自动生成网页，并发布到公有 Repo ，这又会触发 GitHub Pages 的 Action。</p>
 <p>现在便完成了 GitHub Pages 的自动发布配置。此后，你只要持续提交源码到私有 Repo，网站就会自动发布。</p>

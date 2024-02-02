@@ -151,7 +151,7 @@
 <div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
   <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 <div id="aplayera" style="opacity:0.8;color: var(--tw-prose-headings);"></div>
 <script type="text/javascript">
@@ -1500,6 +1500,36 @@ $(element).wrap("<a href='\/en/radio/pick/'></a>");
   </a>
 </div>
     </main><footer id="site-footer" class="py-10 print:hidden">
+         <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdn.bootcss.com/JQuery-Snowfall/1.7.4/snowfall.jquery.min.js">
+
+</script>
+
+
+
+<style>
+.snowfall-flakes{animation:sakura 1s linear 0s infinite;}
+@keyframes sakura{
+0% {transform:rotate3d(0, 0, 0, 0deg);}
+25%{transform:rotate3d(1, 1, 0, 60deg);}
+50%{transform:rotate3d(1, 1, 0, 0deg);}
+75%{transform:rotate3d(1, 0, 0, 60deg);}
+100% {transform:rotate3d(1, 0, 0, 0deg);}
+}
+</style>
+<script>
+$(document).snowfall('clear');
+$(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize:10, maxSize:25,});
+</script>
+
+
+
+
+
+
+
+
+
   
   
     

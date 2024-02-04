@@ -150,10 +150,10 @@
     
     <item>
       <title>ボログ</title>
-      <link>https://smileguide.github.io/ja/posts/</link>
+      <link>https://smileguide.github.io/ja/blogs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/posts/</guid>
+      <guid>https://smileguide.github.io/ja/blogs/</guid>
       <description></description>
       
     </item>
@@ -170,22 +170,22 @@
     
     <item>
       <title>PHOTO大変身——少年時代の写真の処理</title>
-      <link>https://smileguide.github.io/ja/posts/childhood-photography/</link>
+      <link>https://smileguide.github.io/ja/blogs/childhood-photography/</link>
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/posts/childhood-photography/</guid>
+      <guid>https://smileguide.github.io/ja/blogs/childhood-photography/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/posts/childhood-photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/blogs/childhood-photography/feature.jpg" />
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://smileguide.github.io/ja/posts/hello-world/</link>
+      <link>https://smileguide.github.io/ja/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/posts/hello-world/</guid>
+      <guid>https://smileguide.github.io/ja/blogs/hello-world/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/posts/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/blogs/hello-world/feature.jpg" />
     </item>
     
   </channel>

@@ -257,6 +257,12 @@
     />
   </url>
   <url>
+    <loc>https://smileguide.github.io/links/</loc>
+    <lastmod>2024-02-05T09:09:28+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://smileguide.github.io/blogs/site-build/</loc>
     <lastmod>2024-02-02T09:57:23+08:00</lastmod>
     <changefreq>daily</changefreq>

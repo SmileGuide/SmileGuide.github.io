@@ -261,6 +261,18 @@
     <lastmod>2024-02-05T09:09:28+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/en/friends/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/ja/friends/"
+    />
+    <xhtml:link
+      rel="alternate"
+      href="https://smileguide.github.io/friends/"
+    />
   </url>
   <url>
     <loc>https://smileguide.github.io/blogs/site-build/</loc>

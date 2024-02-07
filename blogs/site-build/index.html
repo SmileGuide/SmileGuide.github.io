@@ -1163,9 +1163,12 @@ $(element).wrap("<a href=' /radio/pick/'></a>");
         </li>
       </ul>
     </li>
-    <li><a href="#悬浮播放器">悬浮播放器</a></li>
-    <li><a href="#后端-1">后端</a></li>
-    <li><a href="#前端-1">前端</a></li>
+    <li><a href="#悬浮播放器">悬浮播放器</a>
+      <ul>
+        <li><a href="#后端-1">后端</a></li>
+        <li><a href="#前端-1">前端</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
@@ -1197,14 +1200,58 @@ $(element).wrap("<a href=' /radio/pick/'></a>");
         </li>
       </ul>
     </li>
-    <li><a href="#悬浮播放器">悬浮播放器</a></li>
-    <li><a href="#后端-1">后端</a></li>
-    <li><a href="#前端-1">前端</a></li>
+    <li><a href="#悬浮播放器">悬浮播放器</a>
+      <ul>
+        <li><a href="#后端-1">后端</a></li>
+        <li><a href="#前端-1">前端</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
 </details>
 
+ 
+<script>
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = e.attr('id');
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+           
+            $(e).removeClass('active').siblings('ul').hide();
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+         
+          $toc.find('a').parent('li').find('ul').hide();
+        
+        onScroll();
+      });
+    }
+  })();
+</script>
    </div>
       </div>
       
@@ -1527,7 +1574,7 @@ Blowfish 是<a href="https://n9o.xyz/"   target="_blank">
     
 </h2>
 <p>本网站的悬浮播放器可以跨网页播放，配置方法如下。</p>
-<h2 class="relative group">后端 
+<h3 class="relative group">后端 
     <div id="后端-1" class="anchor"></div>
     
     <span
@@ -1536,11 +1583,11 @@ Blowfish 是<a href="https://n9o.xyz/"   target="_blank">
             style="text-decoration-line: none !important;" href="#%e5%90%8e%e7%ab%af-1" aria-label="锚点">#</a>
     </span>        
     
-</h2>
+</h3>
 <p>本站播放器的原方案是：在LeanCloud <code>数据存储 - 文件</code> 中上传音频文件、专辑封面文件。歌词文件放在<code>static</code>文件夹下，以便直接引用。</p>
 <p>然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：<a href="https://up.ly93.cc/"   target="_blank">
     涟漪文件直链</a>。</p>
-<h2 class="relative group">前端 
+<h3 class="relative group">前端 
     <div id="前端-1" class="anchor"></div>
     
     <span
@@ -1549,7 +1596,7 @@ Blowfish 是<a href="https://n9o.xyz/"   target="_blank">
             style="text-decoration-line: none !important;" href="#%e5%89%8d%e7%ab%af-1" aria-label="锚点">#</a>
     </span>        
     
-</h2>
+</h3>
 <p>把<code>themes/header/basic.html</code>复制到<code>layouts/header/</code>下,在第 17 行加入以下代码：</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">link</span> <span class="na">rel</span><span class="o">=</span><span class="s">&#34;stylesheet&#34;</span> <span class="na">href</span><span class="o">=</span><span class="s">&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;</span><span class="p">&gt;</span>
 </span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>日志 on 群青流星</title>
-    <link>https://smileguide.github.io/blogs/</link>
+    <link>https://karlukle.site/blogs/</link>
     <description>Recent content in 日志 on 群青流星</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的建造</title>
-      <link>https://smileguide.github.io/blogs/site-build/</link>
+      <link>https://karlukle.site/blogs/site-build/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-build/</guid>
+      <guid>https://karlukle.site/blogs/site-build/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-build/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/site-build/feature.jpg" />
     </item>
     
     <item>
       <title>诗《白日之殇》</title>
-      <link>https://smileguide.github.io/blogs/gothic-stake/</link>
+      <link>https://karlukle.site/blogs/gothic-stake/</link>
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/gothic-stake/</guid>
+      <guid>https://karlukle.site/blogs/gothic-stake/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/gothic-stake/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/gothic-stake/feature.jpg" />
     </item>
     
     <item>
       <title>诗《墙内追忆》</title>
-      <link>https://smileguide.github.io/blogs/memoriam/</link>
+      <link>https://karlukle.site/blogs/memoriam/</link>
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/memoriam/</guid>
+      <guid>https://karlukle.site/blogs/memoriam/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/memoriam/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/memoriam/feature.jpg" />
     </item>
     
     <item>
       <title>关于我曾经的个性签名</title>
-      <link>https://smileguide.github.io/blogs/my-pre-slogan/</link>
+      <link>https://karlukle.site/blogs/my-pre-slogan/</link>
       <pubDate>Sat, 25 Mar 2023 23:08:18 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/my-pre-slogan/</guid>
+      <guid>https://karlukle.site/blogs/my-pre-slogan/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/my-pre-slogan/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/my-pre-slogan/feature.jpg" />
     </item>
     
     <item>
       <title>关于两张照片</title>
-      <link>https://smileguide.github.io/blogs/2-photos/</link>
+      <link>https://karlukle.site/blogs/2-photos/</link>
       <pubDate>Sat, 25 Mar 2023 15:42:59 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/2-photos/</guid>
+      <guid>https://karlukle.site/blogs/2-photos/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/2-photos/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/2-photos/feature.jpg" />
     </item>
     
     <item>
       <title>旧照换新颜</title>
-      <link>https://smileguide.github.io/blogs/childhood-photography/</link>
+      <link>https://karlukle.site/blogs/childhood-photography/</link>
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/childhood-photography/</guid>
+      <guid>https://karlukle.site/blogs/childhood-photography/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/childhood-photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/childhood-photography/feature.jpg" />
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://smileguide.github.io/blogs/hello-world/</link>
+      <link>https://karlukle.site/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/hello-world/</guid>
+      <guid>https://karlukle.site/blogs/hello-world/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/blogs/hello-world/feature.jpg" />
     </item>
     
   </channel>

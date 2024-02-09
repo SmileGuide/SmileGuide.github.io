@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>音乐站 on 群青流星</title>
-    <link>https://smileguide.github.io/radio/</link>
+    <link>https://karlukle.site/radio/</link>
     <description>Recent content in 音乐站 on 群青流星</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/radio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 10:11:15 +0800</lastBuildDate><atom:link href="https://karlukle.site/radio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
-      <link>https://smileguide.github.io/radio/classical/</link>
+      <link>https://karlukle.site/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/classical/</guid>
+      <guid>https://karlukle.site/radio/classical/</guid>
       <description> 关于网站音乐系统 2024年1月26日&amp;middot;386 字&amp;middot;1 分钟 音乐 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/classical/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/radio/classical/feature.jpg" />
     </item>
     
     <item>
       <title>新世纪音乐 New Age</title>
-      <link>https://smileguide.github.io/radio/newage/</link>
+      <link>https://karlukle.site/radio/newage/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/newage/</guid>
+      <guid>https://karlukle.site/radio/newage/</guid>
       <description> 关于网站音乐系统 2024年1月26日&amp;middot;386 字&amp;middot;1 分钟 音乐 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/newage/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/radio/newage/feature.jpg" />
     </item>
     
     <item>
       <title>泛流行 PanPop</title>
-      <link>https://smileguide.github.io/radio/panpop/</link>
+      <link>https://karlukle.site/radio/panpop/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/panpop/</guid>
+      <guid>https://karlukle.site/radio/panpop/</guid>
       <description> 关于网站音乐系统 2024年1月26日&amp;middot;386 字&amp;middot;1 分钟 音乐 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/panpop/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/radio/panpop/feature.jpg" />
     </item>
     
     <item>
       <title>摇滚 Rocks</title>
-      <link>https://smileguide.github.io/radio/rocks/</link>
+      <link>https://karlukle.site/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/rocks/</guid>
+      <guid>https://karlukle.site/radio/rocks/</guid>
       <description> 关于网站音乐系统 2024年1月26日&amp;middot;386 字&amp;middot;1 分钟 音乐 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/rocks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/radio/rocks/feature.jpg" />
     </item>
     
     <item>
       <title>地球呢喃 Murmurs of Earth</title>
-      <link>https://smileguide.github.io/radio/murmurs/</link>
+      <link>https://karlukle.site/radio/murmurs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/murmurs/</guid>
+      <guid>https://karlukle.site/radio/murmurs/</guid>
       <description> 关于网站音乐系统 2024年1月26日&amp;middot;386 字&amp;middot;1 分钟 音乐 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/murmurs/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
       <title>精选音乐信息 (悬浮播放器↙)</title>
-      <link>https://smileguide.github.io/radio/pick/</link>
+      <link>https://karlukle.site/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/pick/</guid>
+      <guid>https://karlukle.site/radio/pick/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://karlukle.site/radio/pick/feature.jpg" />
     </item>
     
   </channel>

@@ -9,14 +9,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/classical/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/classical/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/classical/"
     />
   </url>
@@ -27,10 +30,12 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/myoc/relationship/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/myoc/relationship/"
     />
   </url>
@@ -41,14 +46,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/glass/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/glass/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/glass/"
     />
   </url>
@@ -59,14 +67,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/newage/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/newage/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/newage/"
     />
   </url>
@@ -77,10 +88,12 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/myoc/characters/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/myoc/characters/"
     />
   </url>
@@ -91,14 +104,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/board/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/board/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/board/"
     />
   </url>
@@ -109,14 +125,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/panpop/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/panpop/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/panpop/"
     />
   </url>
@@ -127,10 +146,12 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/myoc/pedia/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/myoc/pedia/"
     />
   </url>
@@ -141,14 +162,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/screenshot/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/screenshot/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/screenshot/"
     />
   </url>
@@ -159,14 +183,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/rocks/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/rocks/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/rocks/"
     />
   </url>
@@ -177,10 +204,12 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/myoc/questionaire/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/myoc/questionaire/"
     />
   </url>
@@ -191,14 +220,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/schedule/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/schedule/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/schedule/"
     />
   </url>
@@ -209,14 +241,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/murmurs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/murmurs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/murmurs/"
     />
   </url>
@@ -227,14 +262,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/31infsystem/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/31infsystem/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/31infsystem/"
     />
   </url>
@@ -245,14 +283,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/cipher/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/cipher/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/cipher/"
     />
   </url>
@@ -263,14 +304,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/friends/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/friends/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/friends/"
     />
   </url>
@@ -287,14 +331,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/player/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/player/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/player/"
     />
   </url>
@@ -305,14 +352,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/pick/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/pick/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/pick/"
     />
   </url>
@@ -323,14 +373,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/blogs/gothic-stake/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/blogs/gothic-stake/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/blogs/gothic-stake/"
     />
   </url>
@@ -341,14 +394,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/blogs/memoriam/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/blogs/memoriam/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/blogs/memoriam/"
     />
   </url>
@@ -359,14 +415,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/vb/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/vb/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/vb/"
     />
   </url>
@@ -383,14 +442,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/blogs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/blogs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/blogs/"
     />
   </url>
@@ -401,14 +463,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/docs/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/"
     />
   </url>
@@ -431,14 +496,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/radio/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/radio/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/radio/"
     />
   </url>
@@ -449,10 +517,12 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/docs/myoc/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/docs/myoc/"
     />
   </url>
@@ -475,14 +545,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/blogs/childhood-photography/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/blogs/childhood-photography/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/blogs/childhood-photography/"
     />
   </url>
@@ -493,14 +566,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/blogs/hello-world/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/blogs/hello-world/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/blogs/hello-world/"
     />
   </url>
@@ -511,14 +587,17 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="en"
       href="https://karlukle.site/en/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
       href="https://karlukle.site/ja/"
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-cn"
       href="https://karlukle.site/"
     />
   </url>

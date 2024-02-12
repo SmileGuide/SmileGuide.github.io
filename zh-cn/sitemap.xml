@@ -298,6 +298,24 @@
     />
   </url>
   <url>
+    <loc>https://karlukle.site/notice/</loc>
+    <lastmod>2024-02-11T22:43:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://karlukle.site/shuoshuo-single/first/</loc>
+    <lastmod>2024-02-11T22:43:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://karlukle.site/shuoshuo-single/</loc>
+    <lastmod>2024-02-11T22:43:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://karlukle.site/friends/</loc>
     <lastmod>2024-02-05T09:09:28+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -600,16 +618,6 @@
       hreflang="zh-cn"
       href="https://karlukle.site/"
     />
-  </url>
-  <url>
-    <loc>https://karlukle.site/shuoshuo-single/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://karlukle.site/shuoshuo-single/first/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://karlukle.site/shuoshuo/</loc>

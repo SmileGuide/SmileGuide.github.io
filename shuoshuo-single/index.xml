@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuoshuo-Singles on 群青流星</title>
+    <link>https://karlukle.site/shuoshuo-single/</link>
+    <description>Recent content in Shuoshuo-Singles on 群青流星</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 JIN Shenghao</copyright>
+    <atom:link href="https://karlukle.site/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>说说</title>
+      <link>https://karlukle.site/shuoshuo-single/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://karlukle.site/shuoshuo-single/first/</guid>
+      <description>こんにちは 这是我的第一条说说。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

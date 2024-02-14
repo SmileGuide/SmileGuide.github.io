@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 04:10:47 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/ja/docs/vb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 10:50:30 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/ja/docs/vb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ガラス（完成品）</title>
       <link>https://smileguide.github.io/ja/docs/vb/glass/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/glass/</guid>
-      <description>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -46,7 +46,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/board/</guid>
-      <description>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -88,7 +88,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/screenshot/</guid>
-      <description>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -120,7 +120,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/schedule/</guid>
-      <description>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -152,7 +152,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/31infsystem/</guid>
-      <description>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -194,7 +194,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/cipher/</guid>
-      <description>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;

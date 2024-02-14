@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 04:10:47 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 10:50:30 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://smileguide.github.io/en/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/classical/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -35,7 +35,7 @@
       <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/relationship/</guid>
-      <description>&lt;script type=&#34;module&#34;&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;script type=&#34;module&#34;&gt;
   import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
 &lt;/script&gt;
 &lt;style&gt;
@@ -182,7 +182,7 @@ timeline
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/vb/glass/</guid>
-      <description>&lt;p&gt;This is a tool that can simulate transparent glass on the screen, while supporting fancy features such as multi-opening, coloring, resizing, and creating glass in color sequences.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that can simulate transparent glass on the screen, while supporting fancy features such as multi-opening, coloring, resizing, and creating glass in color sequences.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -214,7 +214,7 @@ timeline
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/newage/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -235,7 +235,7 @@ timeline
       <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/characters/</guid>
-      <description>&lt;style&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
 /@font-face{ 
   font-family: &#34;NotoSerifJP&#34;;
   src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
@@ -454,7 +454,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/vb/board/</guid>
-      <description>&lt;p&gt;This is a tool that allows you to draw on a blank canvas or picture, and specifically provides a quick feature for teachers to grade papers using red handwriting.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that allows you to draw on a blank canvas or picture, and specifically provides a quick feature for teachers to grade papers using red handwriting.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -486,7 +486,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/panpop/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -507,7 +507,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/pedia/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
     &lt;div id=&#34;span-idearthlyworldearthly-worldspan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -627,7 +627,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/vb/screenshot/</guid>
-      <description>&lt;p&gt;This is a tool that makes it easy to capture screenshots copied to the clipboard by pressing the PrintScreen key and save them to a specified directory with a timestamped filename.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that makes it easy to capture screenshots copied to the clipboard by pressing the PrintScreen key and save them to a specified directory with a timestamped filename.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -659,7 +659,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/rocks/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -804,7 +804,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/questionaire/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
     &lt;div id=&#34;why-use-the-family-name-amano天野&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -860,7 +860,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/vb/schedule/</guid>
-      <description>&lt;p&gt;This is a utility that allows you to plan your time during online classes, differentiate between weeks and set alarms by course, plus support for built-in command line operations, and a variety of skins to choose from.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a utility that allows you to plan your time during online classes, differentiate between weeks and set alarms by course, plus support for built-in command line operations, and a variety of skins to choose from.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -892,7 +892,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/murmurs/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -913,7 +913,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/vb/31infsystem/</guid>
-      <description>&lt;p&gt;This is a data management system that allows you to look up information about the class of 2019 at the Thirty-first Middle School in Zhuanghe City, with wildcard lookups, clipboard recognition for automatic lookups, and more. You can also change this work to your organization&amp;rsquo;s information management system.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a data management system that allows you to look up information about the class of 2019 at the Thirty-first Middle School in Zhuanghe City, with wildcard lookups, clipboard recognition for automatic lookups, and more. You can also change this work to your organization&amp;rsquo;s information management system.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -945,7 +945,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/vb/cipher/</guid>
-      <description>&lt;p&gt;This is a tool that can encrypt and decrypt text based on a customized key, with multiple fancy features under development.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that can encrypt and decrypt text based on a customized key, with multiple fancy features under development.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -977,7 +977,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
       <pubDate>Mon, 05 Feb 2024 09:09:28 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/friends/</guid>
-      <description>&lt;style&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
 	.place-self-center{
 		cursor:pointer;
 	}
@@ -1600,7 +1600,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/player/</guid>
-      <description>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
     Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
     Music Station&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
@@ -1685,7 +1685,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/radio/pick/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) Seikai – RADWIMPS
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) Seikai – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) Kaiko – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;4.&lt;/span&gt; 狭心症 Kyoshinsyo – RADWIMPS
@@ -1705,7 +1705,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/gothic-stake/</guid>
-      <description>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -1874,7 +1874,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/memoriam/</guid>
-      <description>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -1951,7 +1951,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/childhood-photography/</guid>
-      <description>&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
 &lt;p&gt;This photo was taken in Shiboyuan, Shenyang, China in 2011. The shooting time is 14:15 on May 1, UTC+8. I photoshopped it and made A PPT report.
 &lt;/p&gt;
 &lt;h2 id=&#34;about-the-ppt&#34;&gt;About the PPT&lt;/h2&gt;
@@ -1969,7 +1969,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/hello-world/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
     &lt;div id=&#34;my-first-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span

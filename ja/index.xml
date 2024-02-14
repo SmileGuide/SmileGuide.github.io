@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 04:10:47 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 10:50:30 +0000</lastBuildDate><atom:link href="https://smileguide.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://smileguide.github.io/ja/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/classical/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -36,7 +36,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/glass/</guid>
-      <description>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -68,7 +68,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/newage/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -89,7 +89,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/board/</guid>
-      <description>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -131,7 +131,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/panpop/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -152,7 +152,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/screenshot/</guid>
-      <description>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -184,7 +184,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/rocks/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -328,7 +328,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/schedule/</guid>
-      <description>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -360,7 +360,7 @@
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/murmurs/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -381,7 +381,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/31infsystem/</guid>
-      <description>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -423,7 +423,7 @@
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/docs/vb/cipher/</guid>
-      <description>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -455,7 +455,7 @@
       <pubDate>Mon, 05 Feb 2024 09:09:28 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/friends/</guid>
-      <description>&lt;div tag=&#34;friends&#34;&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;div tag=&#34;friends&#34;&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
 		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://smileguide.github.io/avatar.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
@@ -1062,7 +1062,7 @@
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/player/</guid>
-      <description>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;  &gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;  &gt;
     ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;  &gt;
     音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;ホバー・プレイヤー 
@@ -1147,7 +1147,7 @@
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/radio/pick/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) – RADWIMPS
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;4.&lt;/span&gt; 狭心症 – RADWIMPS
@@ -1297,7 +1297,7 @@
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/blogs/gothic-stake/</guid>
-      <description>&lt;p&gt;これは私が作った短い詩です。中国語で殇（シャン）は未成年者の死、または戦争による死を意味します。&lt;br&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは私が作った短い詩です。中国語で殇（シャン）は未成年者の死、または戦争による死を意味します。&lt;br&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;中国語の原文と日本語での主な意味は以下の通りです。 
     &lt;div id=&#34;中国語の原文と日本語での主な意味は以下の通りです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1468,7 +1468,7 @@
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/blogs/memoriam/</guid>
-      <description>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;中国語の原文と日本語での主な意味は以下の通りです。 
     &lt;div id=&#34;中国語の原文と日本語での主な意味は以下の通りです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1547,7 +1547,7 @@
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/blogs/childhood-photography/</guid>
-      <description>&lt;h2 id=&#34;写真情報&#34;&gt;写真情報&lt;/h2&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;h2 id=&#34;写真情報&#34;&gt;写真情報&lt;/h2&gt;
 &lt;p&gt;この写真は2011年の沈陽市世博園で撮影された。撮影時間はUTC+8 5月1日14:15。&lt;br&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;この写真のpptについて&#34;&gt;この写真のPPTについて&lt;/h2&gt;
@@ -1566,7 +1566,7 @@
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
       <guid>https://smileguide.github.io/ja/blogs/hello-world/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
     &lt;div id=&#34;こんにちはこれは僕の最初のブログです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span

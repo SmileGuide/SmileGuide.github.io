@@ -104,6 +104,7 @@
         var count = 11;
         var currentPageUrl = window.location.pathname;
         var targetUrl = "https://karlukle.site" + currentPageUrl;
+        targetUrl = targetUrl.replace("jp", "ja");
         function updateCount() {
             count--; // Decrement countdown each time function is called
             countElement.textContent = count; // Update countdown display

@@ -115,7 +115,7 @@
                 gsap.to(cloudsEffect.uniforms.speed, { value: 1.1, duration: 20, ease: "linear" }); // Change speed from default (0.5) to 0.8, lasting 2 seconds
             }
             if (count == 1) {
-                var currentPageUrl = window.location.href;
+                var currentPageUrl = window.location.pathname;
                 var targetUrl = "https://karlukle.site" + currentPageUrl;
                 window.location.href = targetUrl;
             }
